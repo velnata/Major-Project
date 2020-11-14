@@ -1,4 +1,4 @@
-# Major-Project
+# Major-Project-Sentiment Analysis
 I have created a Sentiment Analysis based on Hotel reviews.
 Its a machine learning project based on python.
 I have taken the dataset from kaggel the link is provided below:
